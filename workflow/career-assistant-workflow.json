@@ -1,1 +1,16 @@
-
+{
+  "project": "AI-Powered Career Assistant Bot",
+  "platform": "n8n",
+  "workflow": [
+    "Telegram Trigger",
+    "AI Agent",
+    "Google Gemini AI",
+    "Telegram Response"
+  ],
+  "features": [
+    "Resume Review",
+    "Career Guidance",
+    "Interview Preparation",
+    "Job Application Support"
+  ]
+}
